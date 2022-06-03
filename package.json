@@ -1,0 +1,23 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foobar.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhitneyDluhosh/FooBar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhitneyDluhosh/FooBar/issues"
+  },
+  "homepage": "https://github.com/WhitneyDluhosh/FooBar#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
